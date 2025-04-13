@@ -1,6 +1,6 @@
 # MystHire - AI-Powered Hiring Platform
 
-![MystHire Logo](/public/logo.png)
+demo video link - https://youtu.be/8LdF3lY7Dy0
 
 ## About MystHire
 
